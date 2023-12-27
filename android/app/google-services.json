@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16116821579",
+    "project_id": "fateshly-bf7d6",
+    "storage_bucket": "fateshly-bf7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16116821579:android:332d093a2c4396478027ce",
+        "android_client_info": {
+          "package_name": "com.example.fateshny"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeny67OD7wTYTMouY2PRRyqSGrJsRzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
